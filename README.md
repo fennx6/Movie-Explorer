@@ -61,7 +61,7 @@ yarn dev
 
 4. Buka browser dan akses:
 ```
-http://localhost:5173
+https://a-movie-explorer.vercel.app
 ```
 
 ## 🏗️ Build untuk Production
