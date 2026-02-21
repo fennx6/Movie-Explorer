@@ -200,7 +200,7 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 py-8">
           <div className="text-center text-gray-600">
             <p className="mb-2">
-              Built with <span className="text-red-500">♥</span> using React + TypeScript + Tailwind CSS
+              Made By Angga Nurdiansyah . All rights reserved.
             </p>
             <p className="text-sm">
               Demonstrating SSG, SSR, and CSR rendering techniques with dynamic API data
